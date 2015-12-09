@@ -11,10 +11,12 @@ SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 --
--- Database: `simple_task_list_tutorial`
+-- Database: `simple_task_list`
 --
-
+CREATE DATABASE simple_task_list;
 -- --------------------------------------------------------
+
+USE simple_task_list;
 
 --
 -- Table structure for table `tasks`
